@@ -6,7 +6,7 @@ body {
 }
 /*-------intro-------*/
 .intro {
-	background: url(../img/eagle.png) 0 0/100% 100% no-repeat;
+	background: url(eagle.png) 0 0/100% 100% no-repeat;
 	min-height: 100vh;
 	padding: 30px 0;
 }
