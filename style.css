@@ -228,6 +228,9 @@ body {
 	.about-us__f_image, .about-us__s_image, .about-us__t_image{
 		width: 100%;
 	}
+	.about-us__f_image:hover, .about-us__s_image:hover, .about-us__t_image:hover{
+		box-shadow: none;
+	}
 }
 /*-------about-us--------*/
 /*-------amount----------*/
