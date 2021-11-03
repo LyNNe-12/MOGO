@@ -106,7 +106,7 @@ body {
 }
 @media (max-width: 1050px){
 	.intro{
-		background: url(../img/eagle.png) 0 0/cover no-repeat;
+		background: url(eagle.png) 0 0/cover no-repeat;
 	}
 	.header__logo{
 		margin: 0 auto;
